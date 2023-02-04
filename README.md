@@ -1,9 +1,16 @@
-This program is designed to work with a database stored in an excel file. The database contains information about individuals, including their name, age, and rank. The program allows the user to sort the database by age or by rank and also provides a search function to find individuals based on their name, age, or rank. The program outputs the sorted or searched database and also gives the user the option to save the output in a txt file.
+Overview
+This program is a tool for managing and searching a database of clients. The program can sort the data by age or rank and allow the user to search for clients based on their name, age, or rank.
 
-This program makes use of the Pandas library to read, manipulate, and sort the data stored in the excel file. The program has a clear and straightforward user interface, making it easy to use for someone with basic knowledge of programming.
-
-
-
-Copyright © 2023 Sneezedip. All rights reserved.
-
-This program is free for users to use, modify and distribute for personal or commercial purposes. Sneezedip holds no responsibility for any outcomes resulting from the use of this program.
+Features
+Sort the database by age or rank
+Search for clients by name, age, or rank
+Save the results to a .txt file
+Requirements
+Python 3
+Pandas library
+Usage
+Run the script main.py
+Choose one of the options: sort by age, sort by rank, or search for a client.
+Follow the prompt instructions.
+Copyright
+Copyright (C) 2023 Sneezedip. This program is free software: you can redistribute it and/or modify it under the terms of the MIT License. See the LICENSE file for more details.

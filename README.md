@@ -1,4 +1,5 @@
-Overview
+[**Overview**]
+
 This program is a tool for managing and searching a database of clients. The program can sort the data by age or rank and allow the user to search for clients based on their name, age, or rank.
 
 Features

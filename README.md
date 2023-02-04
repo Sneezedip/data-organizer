@@ -11,7 +11,7 @@
  - Pandas library
 
 ## Usage
- -Run the script main.py
+ - Run the script main.py
  - Choose one of the options: sort by age, sort by rank, or search for a client.
  - Follow the prompt instructions.
 
